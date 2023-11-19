@@ -1,0 +1,11 @@
+	UserDetails userdetails2 = User
+				.builder()
+				.passwordEncoder(passwordencoder)
+				.username("mohamed")
+				.password("4444")
+				.roles("USER", "ADMIN").build();
+
+				
+				
+				
+			
