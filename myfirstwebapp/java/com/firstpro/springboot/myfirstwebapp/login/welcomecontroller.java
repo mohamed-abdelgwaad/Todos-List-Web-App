@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.myfirstwebapp.login;
+package com.firstpro.springboot.myfirstwebapp.login;
 
 import org.springframework.security.core.Authentication;
 import org.springframework.security.core.context.SecurityContextHolder;

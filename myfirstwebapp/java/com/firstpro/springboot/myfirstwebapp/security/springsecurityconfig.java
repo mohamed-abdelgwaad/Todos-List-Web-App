@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.myfirstwebapp.security;
+package com.firstpro.springboot.myfirstwebapp.security;
 
 import static org.springframework.security.config.Customizer.withDefaults;
 

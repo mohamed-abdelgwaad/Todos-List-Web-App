@@ -1,4 +1,4 @@
-package com.in28minutes.springboot.myfirstwebapp.todo;
+package com.firstpro.springboot.myfirstwebapp.todo;
 
 import java.time.LocalDate;
 
